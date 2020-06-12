@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100%;
+}
+.Herobanner{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(45deg,#3a7bd5','#00b4db);
+  background: -webkit-linear-gradient(45deg,#3a7bd5,#00b4db);
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.box{
+  width: 100%;
+  height: 100vh;
+}
+.heroLayout{
+  color: white;
+  text-align: center;
+}
+
+.header{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(45deg,#3a7bd5','#00b4db);
+  background: -webkit-linear-gradient(45deg,#3a7bd5,#00b4db);
+}
+
+.base{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow: 'hidden';
+  background-color: black;
+}
+
+.gridList{
+  flex-wrap: nowrap;
+  transform: translateZ(0);
+}
+
+.dash{
+  width: 80px;
+  height: 5px;
+  display: block;
+  margin: 10px auto 0;
+  background-color: lightblue;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: #292929;
+}
+
+a:hover>visited{
+  text-decoration: none;
+  color:white;
+}
+.elementlist{
+  list-style: none;
+  margin: 10px 30px;
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px 20px;
+  color: white;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.elementlist:hover{
+  color: #292929;
+  border: 1px solid #292929;
+  transition: .5s;
+}
+
+.appli{
+  display:flex;
+  width:45%;
+  max-width:160px;
+  color:#fff;
+  margin:20px 10px;
+  text-align:left;
+  border-radius:5px;
+  text-decoration:none;
+  font-size:10px;
+  text-transform:uppercase;
+  background-color: #101010;
+  transition: background-color 0.25s linear;
+}
+.appli:hover{
+  background-color: white;
+}
+.flexy{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.bigText{
+  font-size:17px;
+  text-transform:capitalize;
+}
+.icon{
+  width:20%;
+  text-align:center;
+  font-size:28px;
+  margin-right:7px;
+}
+
+
+.buttonIcon{
+  color: white;
+}
+
+#divIcon{
+  position: relative;
+}
