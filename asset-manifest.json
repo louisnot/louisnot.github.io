@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d7630a1.chunk.css",
+    "main.js": "/static/js/main.b5875450.chunk.js",
+    "main.js.map": "/static/js/main.b5875450.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca8221b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca8221b6.js.map",
+    "static/js/2.023f8d41.chunk.js": "/static/js/2.023f8d41.chunk.js",
+    "static/js/2.023f8d41.chunk.js.map": "/static/js/2.023f8d41.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e78f5d59891c828910ea44cc70b8485a.js": "/precache-manifest.e78f5d59891c828910ea44cc70b8485a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7d7630a1.chunk.css.map": "/static/css/main.7d7630a1.chunk.css.map",
+    "static/js/2.023f8d41.chunk.js.LICENSE.txt": "/static/js/2.023f8d41.chunk.js.LICENSE.txt",
+    "static/media/NYPizza.jpg": "/static/media/NYPizza.17b79c5e.jpg",
+    "static/media/OWchi.png": "/static/media/OWchi.a089421d.png",
+    "static/media/coin.svg": "/static/media/coin.4625e5b1.svg",
+    "static/media/king.svg": "/static/media/king.26de3901.svg",
+    "static/media/me.png": "/static/media/me.b1f5936e.png",
+    "static/media/outoften.png": "/static/media/outoften.ff375205.png",
+    "static/media/rocket.svg": "/static/media/rocket.5d615380.svg",
+    "static/media/yellow.png": "/static/media/yellow.952d0714.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8221b6.js",
+    "static/js/2.023f8d41.chunk.js",
+    "static/css/main.7d7630a1.chunk.css",
+    "static/js/main.b5875450.chunk.js"
+  ]
+}
