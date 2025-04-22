@@ -38,7 +38,7 @@ export default function HallOfFame({ winners }: Props) {
                                     >
                                         @{entry.winner}
                                     </a>{" "}
-                                    won {entry.prize} for the {entry.goal} followers 🎉
+                                    won {entry.prize} for me reaching {entry.goal} followers 🎉
                                 </p>
                                 <p className="text-sm text-amber-600 font-semibold italic">
                                     Follower #{entry.followerNumber} — Following since: {followingSince}
