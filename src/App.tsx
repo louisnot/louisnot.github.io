@@ -1,4 +1,3 @@
-import React from "react";
 import ProfileSection from "./components/ProfileSection";
 import pp from './assets/pp.png'
 
