@@ -1,3 +1,6 @@
+# FOLLOWER TRACKER FOR MILESTONES
+As of 2025/04/23 146 followers
+
 # React + TypeScript + Vite app
 
 Created to track my follower numbers ==> https://louisnot.github.io/
